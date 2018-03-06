@@ -4,6 +4,7 @@ function add(a,b){
   return number=a+b
 }
 
+<<<<<<< HEAD
 function subtract(a,b){
   return number=a-b
 }
@@ -32,4 +33,6 @@ function preserveDecimal(n){
   return number=parseFloat(n)
 }
 
+=======
+>>>>>>> 7b7d893e13c609887e85f64623360e25c756830b
 add(20,60)
